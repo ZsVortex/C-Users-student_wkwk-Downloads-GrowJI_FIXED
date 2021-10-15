@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Core/*
+/Release/*
+/auth.php
+/db_backup.php
+/.vs/*
+/x64/*
+/enet/*
+/web/*
+/GTServer.rar/*
+/.vs/server/v16/*
+/.vs/server/v16/Browse.VC.db
+/GTServer.rar

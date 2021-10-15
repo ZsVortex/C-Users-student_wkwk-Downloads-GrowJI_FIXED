@@ -1,0 +1,15 @@
+C:\Users\Almantas\Desktop\GTServer\Release\server.exe
+E:\growtopia\GTOS\GTOS\Release\server.exe
+E:\growtopia\GTOS\GTOS_TOOTLE\Release\server.exe
+C:\Users\GrowParty\Desktop\GTOS_JSON\Release\server.exe
+C:\Users\Growpartyvps\Desktop\GTOS_JSON\Release\server.exe
+C:\Users\Administrator\Downloads\Skrrraaa\Release\server.exe
+C:\Users\gayvincent\Downloads\gjs\Release\server.exe
+C:\Users\Administrator\Downloads\gjs\Release\server.exe
+C:\Users\Administrator\Downloads\GrowStyle\Release\server.exe
+C:\Users\Administrator\Documents\GrowStyle\Release\server.exe
+C:\Users\Administrator\Downloads\SLN\Release\server.exe
+C:\Users\Administrator\Downloads\GTTC\SLN REAL\Release\server.exe
+C:\Users\Administrator\Downloads\Source\SLN\Release\server.exe
+C:\Users\DarkVPS\Downloads\GrowJI_FIXED\Release\server.exe
+C:\Users\student_wkwk\Downloads\GrowJI_FIXED\Release\server.exe
